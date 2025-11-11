@@ -1,0 +1,129 @@
+body{
+    background-color: #6daebf;
+}
+.q{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px 0px;
+    border:solid #1a86a1;
+    border-width: 3px;
+    padding: 20px;
+       
+h1{
+    margin:1px;
+    font-size:30px;
+    color: #6daebf;  
+}
+p{
+    color: rgb(148, 158, 167);
+    font-size: 15px; 
+    line-height: 1.5;
+}
+}
+.w{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px 0px;
+    border:solid #1a86a1;
+    border-width: 3px;
+    padding: 20px;
+       
+h1{
+    margin:1px;
+    font-size:30px;
+    color: #6daebf;  
+}
+p{
+    color: rgb(148, 158, 167);
+    font-size: 15px; 
+    line-height: 1.5;
+}
+}
+.e{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px 0px;
+    border:solid #1a86a1;
+    border-width: 3px;
+    padding: 20px;
+       
+h1{
+    margin:1px;
+    font-size:30px;
+    color: #6daebf;  
+}
+p{
+    color: rgb(148, 158, 167);
+    font-size: 15px; 
+    line-height: 1.5;
+}
+}
+.z{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px 0px;
+    border:solid #1a86a1;
+    border-width: 3px;
+    padding: 20px;
+       
+h1{
+    margin:1px;
+    font-size:30px;
+    color: #6daebf;  
+}
+p{
+    color: rgb(148, 158, 167);
+    font-size: 15px; 
+    line-height: 1.5;
+}
+}
+.x{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px 0px;
+    border:solid #1a86a1;
+    border-width: 3px;
+    padding: 20px;
+       
+h1{
+    margin:1px;
+    font-size:30px;
+    color: #6daebf;  
+}
+p{
+    color: rgb(148, 158, 167);
+    font-size: 15px; 
+    line-height: 1.5;
+}
+}
+.c{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px 0px;
+    border:solid #1a86a1;
+    border-width: 3px;
+    padding: 20px;
+       
+h1{
+    margin:1px;
+    font-size:30px;
+    color: #6daebf;  
+}
+p{
+    color: rgb(148, 158, 167);
+    font-size: 15px; 
+    line-height: 1.5;
+}
+}
+.qwezxc{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+
+}
